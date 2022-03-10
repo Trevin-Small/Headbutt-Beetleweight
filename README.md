@@ -16,7 +16,7 @@ my first attempt at creating a combat robot.
 - Assymetric vertical spinner for higher bite
   (one side of the weapon is longer than the other, meaning you get a deeper "bite" on the opponent)
 - Wedgelets for the low ground
-- 1/2" UHMW chassis (This proved to be WAY overkill, 1/2" is just ridiculously tough)
+- 1/2" UHMW chassis (This proved to be WAY overkill, 1/2" its a ridiculously tough material)
 
 ![isometric view](https://github.com/Trevin-Small/Headbutt-Beetleweight/blob/main/isometric.png)
 ![top view](https://github.com/Trevin-Small/Headbutt-Beetleweight/blob/main/top.png)
