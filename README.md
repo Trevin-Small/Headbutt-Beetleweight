@@ -24,7 +24,7 @@ my first attempt at creating a combat robot.
 
 # Finished Robot
 ![front view](https://github.com/Trevin-Small/Headbutt-Beetleweight/blob/main/front_view.png)
-![other front view](https://github.com/Trevin-Small/Headbutt-Beetleweight/blob/main/alt_front.png)
+![other front view](https://github.com/Trevin-Small/Headbutt-Beetleweight/blob/main/alt_front.JPG)
 
 
 
