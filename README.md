@@ -34,7 +34,7 @@ my first attempt at creating a combat robot.
 - [Fight 3](https://youtu.be/kC-pc0cVocw?t=3255)
 - [Fight 4](https://youtu.be/kC-pc0cVocw?t=4509)
 - Its clear in the videos, but the robot did not end up exactly like the CAD model.
-  Titanium wedges were replaced with UHMW walls ( weight constraints :( ), and the robot is black, not white.
+  Titanium wedges were replaced with UHMW walls { due to weight constraints }, and the robot is black, not white.
 
 # Afterthoughts
 Given it was my first time building a combat robot, I was relatively pleased with the outcome.
