@@ -22,6 +22,11 @@ my first attempt at creating a combat robot.
 ![top view](https://github.com/Trevin-Small/Headbutt-Beetleweight/blob/main/top.png)
 ![side view](https://github.com/Trevin-Small/Headbutt-Beetleweight/blob/main/bottom.png)
 
+# Finished Robot
+![front view](https://github.com/Trevin-Small/Headbutt-Beetleweight/blob/main/front_view.png)
+![other front view](https://github.com/Trevin-Small/Headbutt-Beetleweight/blob/main/alt_front.png)
+
+
 
 ### Fights (on youtube!)
 - [Fight 1](https://youtu.be/kC-pc0cVocw?t=1101)
@@ -30,7 +35,6 @@ my first attempt at creating a combat robot.
 - [Fight 4](https://youtu.be/kC-pc0cVocw?t=4509)
 - Its clear in the videos, but the robot did not end up exactly like the CAD model.
   Titanium wedges were replaced with UHMW walls ( weight constraints :( ), and the robot is black, not white.
-
 
 # Afterthoughts
 Given it was my first time building a combat robot, I was relatively pleased with the outcome.
